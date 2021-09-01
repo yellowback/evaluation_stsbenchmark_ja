@@ -3,6 +3,8 @@
 
 自動翻訳版stsbenchmarkの日本語評価用のスクリプトです。
 
+詳細は[ブログ](https://tech.yellowback.net/posts/sentence-transformers-japanese-models )を参照ください。
+
 ## パッケージインストール
 
 ```
